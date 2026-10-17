@@ -9,7 +9,7 @@
 > **[⬇️ Download the latest Brick by Brick cheats](../../releases/latest)**
 
 <p align="center">
-    <a href="../../releases/latest/download/BrickByBrick-Cheats.zip">
+    <a href="../../releases/latest/download/BrickByBrickCheats.zip">
         <img src="assets/banner.png" width="100%" alt="Download Brick by Brick cheats">
     </a>
 </p>
